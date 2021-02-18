@@ -8,7 +8,7 @@
 {margin: 0;
   padding: 0;
   box-sizing: border-box;
-  background-image: url(/Users/sharondocherty/development/Project1/floor.jpg);
+  background-image: url(floor.jpg);
 }
 
 
@@ -82,6 +82,7 @@
     background-color:#f2f3be;
     text-decoration: none;
     font-size: 20px;
+    color: #76687E;
   }
 
 
