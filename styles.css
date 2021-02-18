@@ -1,0 +1,158 @@
+
+
+  @import url('https://fonts.googleapis.com/css2?family=Reenie+Beanie&display=swap');
+
+
+
+*
+{margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-image: url(/Users/sharondocherty/development/Project1/floor.jpg);
+}
+
+
+
+  #topdiv {
+    height: 85px;
+    background-image: none;
+    background-color: #76687E;
+    color: #f2f3be;
+    margin: none;
+    align-items: center;
+    justify-content: center;
+
+}
+
+  p {
+    display: flex;
+    margin: 0%;
+    padding-top:  5px;
+    background-image:none;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Reenie Beanie', cursive;
+    text-align: center;
+    font-size: 50px;
+  
+ }
+
+  h2
+    {background-image: none;
+    justify-content: flex-end;
+    margin: 0%;
+    padding: 4px;
+    font-family: 'Reenie Beanie', cursive;
+    text-align: end;*
+    font-size: 35px;
+  
+}
+
+#links
+{ 
+    position:relative;
+    width: auto;
+    background-color:#f2f3be;
+    justify-content: space-around;
+    background-image: none;
+    align-items: stretch;
+    margin: auto;
+    font-family: 'Reenie Beanie', cursive;
+    padding: 15px;
+
+  }
+
+  #options {
+    display: flex;
+    background-image: none;
+    background-color:#f2f3be;
+    list-style-type: none;
+    justify-content: space-between;
+    margin: auto;
+    width: auto;
+  }
+  li {
+    background-image: none;
+    background-color:#f2f3be;
+    text-decoration: none;
+  }
+
+  a {
+    background-image: none;
+    background-color:#f2f3be;
+    text-decoration: none;
+    font-size: 20px;
+  }
+
+
+  body{
+
+    margin: 0mm;
+    padding:
+    background-image:none
+    }
+
+  #topmat {
+      lign-items: center;
+      justify-content: center;
+      display: flex;
+      flex-direction: row;
+      font-family: 'Reenie Beanie', cursive;
+    }
+
+#YogaMat1{
+      box-sizing: border-box;
+      border-radius: 8px;
+      height: 150px;
+      width: 400px;
+      background-image: none;
+      background-color:#76687E;
+      color: #f2f3be;
+      position: relative;
+      margin-top: 30px;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      font-size: 50px;
+      padding: 30px;
+}
+
+section {
+      box-sizing: border-box;
+      display: flex;
+      flex-direction: row;
+      margin: 0%;
+      padding: 0px;
+      height: 500px;
+      width: auto;
+      align-items: center;
+      justify-content: space-around;
+      font-family: 'Reenie Beanie', cursive;
+    }
+
+.mats {
+    border-radius: 8px;
+    height: 400px;
+    width: 195px;
+    background-image: none;
+    background-color:#76687E;
+    color: #f2f3be;
+    text-align: center;
+    font-size: 50px;
+    justify-content:center;
+    padding: 60px;
+
+
+}
+
+.matlinks {
+    background-image: none;
+    text-decoration: none;
+    background-color:#76687E;
+    color:#f2f3be;
+    font-size: 50px;}
+    
+  .matlinks:hover {
+    color: rgb(6, 6, 131)}
+
+    
